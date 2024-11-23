@@ -30,6 +30,45 @@ Zero-inflated data appears frequently in fields such as climate science, healthc
    - Healthcare data (e.g., rare disease modeling)
    - Social sciences (e.g., survey data analysis)
 
+## Paper Link
+
+### 1. Statistical Methods
+
+| Paper Title                                                   | Summary                                                                                     | Link                                                         |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Zero-Inflated Poisson Regression, with an Application to Defects in Manufacturing | Introduces zero-inflated Poisson regression and applies it to defect analysis in manufacturing. | [Link](https://xueshu.baidu.com/usercenter/paper/show?paperid=36caf17c1ab9785b591fa52001f71cc7) |
+| A comparison of zero-inflated and hurdle models for modeling zero counts | Compares zero-inflated and hurdle models for analyzing zero-inflated count data.            | [Link](https://jsdajournal.springeropen.com/articles/10.1186/s40488-021-00121-4) |
+
+---
+
+### 2. Machine Learning Approaches
+
+| Paper Title                                                   | Summary                                                                                     | Link                                                         |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Count Regression and Machine Learning Techniques for Zero-Inflated Overdispersed Count Data | Combines count regression and machine learning for zero-inflated, overdispersed ecological data. | [Link](https://link.springer.com/article/10.1007/s40745-023-00464-6) |
+| Mastering the Zero-Inflated Model: A Machine Learning Must-Have | Explores the importance of machine learning techniques for zero-inflated data modeling.     | [Link](https://machinelearningmodels.org/mastering-the-zero-inflated-model-a-machine-learning-must-have) |
+
+---
+
+### 3. Deep Learning for Zero-Inflated Data
+
+| Paper Title                                                   | Summary                                                                                     | Link                                                         |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Deep Hurdle Networks for Zero-Inflated Multi-Target Regression | Proposes deep hurdle networks for tasks like multi-target zero-inflated regression, such as species abundance estimation. | [Link](https://arxiv.org/abs/2010.16040)                    |
+| A New Deep Learning-Based Zero-Inflated Duration Model        | Develops a deep learning-based zero-inflated duration model for applications like finance.  | [Link](https://www.frontiersin.org/articles/10.3389/fphy.2021.651528/full) |
+
+---
+
+### 4. Applications
+
+| Paper Title                                                   | Summary                                                                                     | Link                                                         |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Spatial and Spatio-Temporal Models for Modeling Epidemiological Data with Excess Zeros | Proposes spatial and spatio-temporal models to address excess zeros in epidemiological data. | [Link](https://www.mdpi.com/1660-4601/12/9/10536)           |
+| Zero-Inflated Generalized Linear Mixed Models: A Better Way to Analyze Overdispersed Count Data | Proposes zero-inflated generalized linear mixed models to analyze overdispersed count data. | [Link](https://www.mdpi.com/2227-7390/9/10/1100)           |
+| A Comparison of Zero-Inflated Models for Modern Biomedical Data | Compares the performance of zero-inflated models for modern biomedical data.                | [Link](https://arxiv.org/abs/2411.12086)                   |
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
